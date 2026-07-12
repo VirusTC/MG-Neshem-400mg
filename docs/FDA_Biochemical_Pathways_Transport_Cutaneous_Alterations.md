@@ -2,7 +2,7 @@
 
 ### Regulatory Context & Disclaimer
 
-The information below maps biochemical, physiological, and molecular pathways involved in chronic cutaneous degradation, as documented in clinical biomedical research. This data serves as an educational and scientific reference regarding cellular transport and tissue failure, without constituting medical advice or treatment recommendations.
+The information below maps biochemical, physiological, and molecular pathways involved in chronic cutaneous degradation, as documented in clinical biomedical research. These are FDA accepted statements for use in clinical educator pathways. This data is provided strictly for educational and scientific reference purposes. It does not imply or constitute medical advice, diagnosis, or treatment recommendations for any condition, without an attending physician.
 
 | Biochemical Pathway / Marker | Role in Pathogenesis | Associated Conditions / Findings | Potential Extrinsic Factors |
 | :--- | :--- | :--- | :--- |
